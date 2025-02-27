@@ -75,7 +75,7 @@ export AZDO_PAT="your-pat-token"
 export AZURE_DEVOPS_PROJECT="your-project"
 ```
 
-3. Add to Windsurf configuration:
+3. Add to your Windsurf / Cursor configuration:
 
 ```json
 {
