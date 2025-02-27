@@ -20,6 +20,45 @@ Connect with Azure DevOps for comprehensive project management:
 
 ### Installation
 
+#### Installing Go 1.23 or above
+
+##### Windows
+Install Go using one of these package managers:
+
+1. Using **winget**:
+   ```
+   winget install GoLang.Go
+   ```
+
+2. Using **Chocolatey**:
+   ```
+   choco install golang
+   ```
+
+3. Using **Scoop**:
+   ```
+   scoop install go
+   ```
+
+After installation, verify with:
+```
+go version
+```
+
+##### macOS
+Install Go using Homebrew:
+
+```
+brew install go
+```
+
+Verify the installation:
+```
+go version
+```
+
+#### Building the Project
+
 1. Clone and build:
 
 ```bash
